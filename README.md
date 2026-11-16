@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="alfa_calidad-de-datos" src="https://github.com/user-attachments/assets/53b480cd-95dc-4889-92cc-54f672a55611" />
 # Α Proyecto Alfa | Customer Data Quality
 
 ## Descripción
